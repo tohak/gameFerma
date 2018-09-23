@@ -6,7 +6,7 @@ import ferma.service.UtilService;
 
 /*
  * Консольная игра Ферма
- * 
+ *
  * Настройки:
  * конфигураци hibernate and connect bd  храняться в файле /resources/META-INF/persistence.xml
  * для старта игры:
@@ -23,7 +23,9 @@ import ferma.service.UtilService;
    * так как программа не большая и не планирую маштабировать); GardenComporatorUtil - использовал для сортировки полей;
    * InputUtil - отдельный сервисный класс ввода; PlantService - класс для работі с json; Menu основной класс логики прилоения;
    * UtilService - есервисный класс для запуска приложения.
-  *
+   *
+   *
+  * p.s. Таке могу, даже проще для меня,  создать эту игру на спринге(Spring core, data, mvc, security) на рест контроллерах.
   * (c)Konovalov Anton, tohak199@gmil.com
   *
  */
